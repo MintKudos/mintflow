@@ -1,0 +1,68 @@
+{
+  "name": "@vechaiui/react",
+  "version": "0.2.2",
+  "sideEffects": false,
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/types/index.d.ts",
+  "typings": "dist/types/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/cjs/index.js",
+      "default": "./dist/esm/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "start": "nodemon --watch src --exec yarn build -e ts,tsx",
+    "build": "concurrently yarn:build:*",
+    "test": "jest --env=jsdom --passWithNoTests",
+    "lint": "concurrently yarn:lint:*",
+    "version": "yarn build",
+    "build:esm": "cross-env BABEL_ENV=esm babel src --root-mode upward --extensions .ts,.tsx -d dist/esm --source-maps",
+    "build:cjs": "cross-env BABEL_ENV=cjs babel src --root-mode upward --extensions .ts,.tsx -d dist/cjs --source-maps",
+    "build:types": "tsc --emitDeclarationOnly --declaration --declarationDir dist/types",
+    "test:cov": "yarn test --coverage",
+    "lint:src": "eslint src --ext .ts,.tsx --config ../../.eslintrc",
+    "lint:types": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "@vechaiui/alert": "0.1.8",
+    "@vechaiui/avatar": "0.1.8",
+    "@vechaiui/badge": "0.1.6",
+    "@vechaiui/breadcrumb": "0.1.7",
+    "@vechaiui/button": "0.1.7",
+    "@vechaiui/checkbox": "0.2.9",
+    "@vechaiui/code": "0.1.6",
+    "@vechaiui/divider": "0.1.6",
+    "@vechaiui/dot": "0.1.6",
+    "@vechaiui/forms": "0.3.2",
+    "@vechaiui/icon": "0.1.7",
+    "@vechaiui/image": "0.1.7",
+    "@vechaiui/kbd": "0.1.6",
+    "@vechaiui/link": "0.1.6",
+    "@vechaiui/message": "0.1.8",
+    "@vechaiui/notification": "0.1.9",
+    "@vechaiui/radio": "0.1.9",
+    "@vechaiui/spinner": "0.1.6",
+    "@vechaiui/switch": "0.1.9",
+    "@vechaiui/tag": "0.1.8",
+    "@vechaiui/theme": "0.4.0",
+    "@vechaiui/utils": "^0.1.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.6",
+    "react-dom": ">=16.8.6"
+  }
+}
