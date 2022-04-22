@@ -1,5 +1,5 @@
 {
-  "name": "@mintgate/mintflow/switch",
+  "name": "@mintflow/switch",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,10 +37,10 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@mintgate/mintflow/forms": "0.3.2",
-    "@mintgate/mintflow/theme": "0.4.0",
-    "@mintgate/mintflow/utils": "^0.1.0",
-    "@mintgate/mintflow/visually-hidden": "^0.1.0"
+    "@mintflow/forms": "0.3.2",
+    "@mintflow/theme": "0.4.0",
+    "@mintflow/utils": "^0.1.0",
+    "@mintflow/visually-hidden": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

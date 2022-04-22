@@ -1,4 +1,4 @@
-import { FormControl, FormHelperText, FormLabel } from "@mintgate/mintflow/forms";
+import { FormControl, FormHelperText, FormLabel } from "@mintflow/forms";
 import { Checkbox } from "../src";
 
 export default {

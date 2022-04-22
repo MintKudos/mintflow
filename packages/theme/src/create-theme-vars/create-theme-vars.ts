@@ -1,4 +1,4 @@
-import { Dict, walkObject } from "@mintgate/mintflow/utils";
+import { Dict, walkObject } from "@mintflow/utils";
 
 import { ThemeScale } from "./theme-tokens";
 import { cssVar } from "./css-var";

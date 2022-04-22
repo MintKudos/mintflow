@@ -1,5 +1,5 @@
 {
-  "name": "@mintgate/mintflow/alert",
+  "name": "@mintflow/alert",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,9 +37,9 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@mintgate/mintflow/icon": "0.1.7",
-    "@mintgate/mintflow/theme": "0.4.0",
-    "@mintgate/mintflow/utils": "^0.1.0"
+    "@mintflow/icon": "0.1.7",
+    "@mintflow/theme": "0.4.0",
+    "@mintflow/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

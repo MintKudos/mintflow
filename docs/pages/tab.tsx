@@ -417,7 +417,7 @@ const demoList = [
 const tabsComponent = {
   name: "Tab",
   importer: `import { Tab } from "@headlessui/react";
-import { cx } from "@mintgate/mintflow/react";`,
+import { cx } from "@mintflow/react";`,
   demoList,
   propList,
 };

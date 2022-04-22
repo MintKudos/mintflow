@@ -10,7 +10,7 @@ The default color of all components will be neutral. Add prop `color="colorName"
 
 ```tsx
 import * as React from "react";
-import { MintflowProvider, Button } from "@mintgate/mintflow/react";
+import { MintflowProvider, Button } from "@mintflow/react";
 
 function App() {
   return (
@@ -24,7 +24,7 @@ function App() {
 
 ## Adding Color
 
-To add other colors edit the `colors` option in the @mintgate/mintflow/core plugin of tailwindcss.
+To add other colors edit the `colors` option in the @mintflow/core plugin of tailwindcss.
 
 ```js
 // tailwind.config.js
@@ -43,7 +43,7 @@ module.exports = {
   // add mintflow plugin
   plugins: [
     require("@tailwindcss/forms"),
-    require("@mintgate/mintflow/core")({
+    require("@mintflow/core")({
       colors: ["pink", "warning"]
     }),
     // ...
@@ -53,7 +53,7 @@ module.exports = {
 
 ```tsx
 import * as React from "react";
-import { MintflowProvider, Button } from "@mintgate/mintflow/react";
+import { MintflowProvider, Button } from "@mintflow/react";
 
 function App() {
   return (

@@ -146,7 +146,7 @@ const demoList = [
 
 const avatarComponent = {
   name: "Avatar",
-  importer: `import { Avatar } from "@mintgate/mintflow/react"`,
+  importer: `import { Avatar } from "@mintflow/react"`,
   demoList,
   propList,
 };

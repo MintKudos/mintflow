@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.11.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.10.0...@mintgate/mintflow/docs@0.11.0) (2022-03-18)
+# [0.11.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.10.0...@mintflow/docs@0.11.0) (2022-03-18)
 
 
 ### Bug Fixes
@@ -22,7 +22,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.10.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.9.1...@mintgate/mintflow/docs@0.10.0) (2021-11-10)
+# [0.10.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.9.1...@mintflow/docs@0.10.0) (2021-11-10)
 
 
 ### Features
@@ -34,15 +34,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.9.1](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.9.0...@mintgate/mintflow/docs@0.9.1) (2021-09-29)
+## [0.9.1](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.9.0...@mintflow/docs@0.9.1) (2021-09-29)
 
-**Note:** Version bump only for package @mintgate/mintflow/docs
-
-
+**Note:** Version bump only for package @mintflow/docs
 
 
 
-# [0.9.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.8.0...@mintgate/mintflow/docs@0.9.0) (2021-08-28)
+
+
+# [0.9.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.8.0...@mintflow/docs@0.9.0) (2021-08-28)
 
 
 ### Features
@@ -53,7 +53,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.8.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.7.0...@mintgate/mintflow/docs@0.8.0) (2021-08-01)
+# [0.8.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.7.0...@mintflow/docs@0.8.0) (2021-08-01)
 
 
 ### Features
@@ -64,7 +64,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.7.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.6.4...@mintgate/mintflow/docs@0.7.0) (2021-07-23)
+# [0.7.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.6.4...@mintflow/docs@0.7.0) (2021-07-23)
 
 
 ### Bug Fixes
@@ -80,7 +80,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.4](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.6.3...@mintgate/mintflow/docs@0.6.4) (2021-07-15)
+## [0.6.4](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.6.3...@mintflow/docs@0.6.4) (2021-07-15)
 
 
 ### Bug Fixes
@@ -94,15 +94,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.3](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.6.2...@mintgate/mintflow/docs@0.6.3) (2021-07-07)
+## [0.6.3](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.6.2...@mintflow/docs@0.6.3) (2021-07-07)
 
-**Note:** Version bump only for package @mintgate/mintflow/docs
-
-
+**Note:** Version bump only for package @mintflow/docs
 
 
 
-## [0.6.2](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.6.1...@mintgate/mintflow/docs@0.6.2) (2021-07-07)
+
+
+## [0.6.2](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.6.1...@mintflow/docs@0.6.2) (2021-07-07)
 
 
 ### Bug Fixes
@@ -119,7 +119,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.6.1](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.6.0...@mintgate/mintflow/docs@0.6.1) (2021-07-04)
+## [0.6.1](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.6.0...@mintflow/docs@0.6.1) (2021-07-04)
 
 
 ### Bug Fixes
@@ -131,7 +131,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.6.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.5.0...@mintgate/mintflow/docs@0.6.0) (2021-07-03)
+# [0.6.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.5.0...@mintflow/docs@0.6.0) (2021-07-03)
 
 
 ### Bug Fixes
@@ -149,7 +149,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.4.0...@mintgate/mintflow/docs@0.5.0) (2021-07-02)
+# [0.5.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.4.0...@mintflow/docs@0.5.0) (2021-07-02)
 
 
 ### Bug Fixes
@@ -167,7 +167,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.3.3...@mintgate/mintflow/docs@0.4.0) (2021-07-01)
+# [0.4.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.3.3...@mintflow/docs@0.4.0) (2021-07-01)
 
 
 ### Bug Fixes
@@ -187,7 +187,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.3.2...@mintgate/mintflow/docs@0.3.3) (2021-06-30)
+## [0.3.3](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.3.2...@mintflow/docs@0.3.3) (2021-06-30)
 
 
 ### Features
@@ -198,7 +198,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.2](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.3.1...@mintgate/mintflow/docs@0.3.2) (2021-06-29)
+## [0.3.2](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.3.1...@mintflow/docs@0.3.2) (2021-06-29)
 
 
 ### Bug Fixes
@@ -210,15 +210,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.3.0...@mintgate/mintflow/docs@0.3.1) (2021-06-29)
+## [0.3.1](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.3.0...@mintflow/docs@0.3.1) (2021-06-29)
 
-**Note:** Version bump only for package @mintgate/mintflow/docs
-
-
+**Note:** Version bump only for package @mintflow/docs
 
 
 
-# [0.3.0](https://github.com/vechai/mintflow/compare/@mintgate/mintflow/docs@0.2.0...@mintgate/mintflow/docs@0.3.0) (2021-06-29)
+
+
+# [0.3.0](https://github.com/vechai/mintflow/compare/@mintflow/docs@0.2.0...@mintflow/docs@0.3.0) (2021-06-29)
 
 
 ### Features

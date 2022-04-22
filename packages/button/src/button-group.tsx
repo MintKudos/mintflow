@@ -1,5 +1,5 @@
-import { DefaultProps } from "@mintgate/mintflow/theme";
-import { cx, getValidChildren, __DEV__ } from "@mintgate/mintflow/utils";
+import { DefaultProps } from "@mintflow/theme";
+import { cx, getValidChildren, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 
 import { ButtonProps } from "./button";

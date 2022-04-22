@@ -1,6 +1,6 @@
-import { cx, __DEV__ } from "@mintgate/mintflow/utils";
-import { Icon, XIcon } from "@mintgate/mintflow/icon";
-import { DefaultProps } from "@mintgate/mintflow/theme";
+import { cx, __DEV__ } from "@mintflow/utils";
+import { Icon, XIcon } from "@mintflow/icon";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 
 import { useAlertClass, useAlertCloseButton } from "./styles";

@@ -131,7 +131,7 @@ const demoList = [
 
 const selectComponent = {
   name: "Select",
-  importer: `import { Select } from "@mintgate/mintflow/react"`,
+  importer: `import { Select } from "@mintflow/react"`,
   demoList,
   propList,
 };

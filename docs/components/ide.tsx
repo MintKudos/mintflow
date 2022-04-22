@@ -1,4 +1,4 @@
-import { Icon, cx } from "@mintgate/mintflow/react";
+import { Icon, cx } from "@mintflow/react";
 import { ChevronUpIcon } from "@heroicons/react/outline";
 import * as Tabs from "@radix-ui/react-tabs";
 import * as React from "react";

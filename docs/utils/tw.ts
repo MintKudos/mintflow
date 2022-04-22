@@ -6,7 +6,7 @@ module.exports = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
+    "./node_modules/@mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -22,7 +22,7 @@ module.exports = {
   // add mintflow plugin
   plugins: [
     require("@tailwindcss/forms"),
-    require("@mintgate/mintflow/core")({
+    require("@mintflow/core")({
       colors: ["orange"],
     }),
     // ...
@@ -37,7 +37,7 @@ export const tabsEndClosedTWFile = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
+    "./node_modules/@mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -53,7 +53,7 @@ export const tabsEndClosedTWFile = {
   // add mintflow plugin
   plugins: [
     require("@tailwindcss/forms"),
-    require("@mintgate/mintflow/core"),
+    require("@mintflow/core"),
     // ...
   ],
 };`,

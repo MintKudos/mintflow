@@ -5,7 +5,7 @@ import {
   deepmerge,
   WithCSSVar,
   Dict,
-} from "@mintgate/mintflow/utils";
+} from "@mintflow/utils";
 import * as React from "react";
 import { createContext, useContext, useMemo } from "react";
 import set from "lodash.set";

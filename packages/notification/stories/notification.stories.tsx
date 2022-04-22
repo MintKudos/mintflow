@@ -1,4 +1,4 @@
-import { Button } from "@mintgate/mintflow/button";
+import { Button } from "@mintflow/button";
 import { useNotification } from "../src";
 
 export default {

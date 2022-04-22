@@ -1,5 +1,5 @@
 import { Popover, RadioGroup, Transition } from "@headlessui/react";
-import { cx, Divider, Switch, Select } from "@mintgate/mintflow/react";
+import { cx, Divider, Switch, Select } from "@mintflow/react";
 import * as React from "react";
 
 import { useTheme, themes, radiusItems, ThemeContextType } from "./theme-controller";

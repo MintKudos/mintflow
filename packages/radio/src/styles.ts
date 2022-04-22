@@ -1,5 +1,5 @@
-import { createMemoClass } from "@mintgate/mintflow/theme";
-import { cx } from "@mintgate/mintflow/utils";
+import { createMemoClass } from "@mintflow/theme";
+import { cx } from "@mintflow/utils";
 
 export const useRadioLabelClass = createMemoClass((props) => {
   const sizes = {

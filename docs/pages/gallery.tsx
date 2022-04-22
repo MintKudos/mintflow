@@ -31,7 +31,7 @@ import {
   useMessage,
   useNotification,
   cx,
-} from "@mintgate/mintflow/react";
+} from "@mintflow/react";
 import {
   Menu,
   Listbox,

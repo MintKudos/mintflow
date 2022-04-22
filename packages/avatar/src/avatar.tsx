@@ -1,6 +1,6 @@
-import { useImage } from "@mintgate/mintflow/image";
-import { DefaultProps } from "@mintgate/mintflow/theme";
-import { cx, __DEV__ } from "@mintgate/mintflow/utils";
+import { useImage } from "@mintflow/image";
+import { DefaultProps } from "@mintflow/theme";
+import { cx, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 
 import { useAvatarClass, useAvatarNameClass } from "./styles";

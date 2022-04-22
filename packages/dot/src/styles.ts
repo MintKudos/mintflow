@@ -1,5 +1,5 @@
-import { cx } from "@mintgate/mintflow/utils";
-import { createMemoClass } from "@mintgate/mintflow/theme";
+import { cx } from "@mintflow/utils";
+import { createMemoClass } from "@mintflow/theme";
 
 const variants = {
   solid: "dot-solid",

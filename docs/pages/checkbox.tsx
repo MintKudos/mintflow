@@ -309,7 +309,7 @@ const demoList = [
 
 const checkboxComponent = {
   name: "Checkbox",
-  importer: 'import { Checkbox } from "@mintgate/mintflow/react"',
+  importer: 'import { Checkbox } from "@mintflow/react"',
   demoList,
   propList,
 }

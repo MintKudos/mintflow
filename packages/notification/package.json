@@ -1,5 +1,5 @@
 {
-  "name": "@mintgate/mintflow/notification",
+  "name": "@mintflow/notification",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,11 +37,11 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@mintgate/mintflow/button": "0.1.7",
-    "@mintgate/mintflow/icon": "0.1.7",
-    "@mintgate/mintflow/theme": "0.4.0",
-    "@mintgate/mintflow/toast": "0.1.6",
-    "@mintgate/mintflow/utils": "^0.1.0"
+    "@mintflow/button": "0.1.7",
+    "@mintflow/icon": "0.1.7",
+    "@mintflow/theme": "0.4.0",
+    "@mintflow/toast": "0.1.6",
+    "@mintflow/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

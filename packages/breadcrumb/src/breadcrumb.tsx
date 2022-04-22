@@ -1,6 +1,6 @@
-import { Link, LinkProps } from "@mintgate/mintflow/link";
-import { cx, getValidChildren, __DEV__ } from "@mintgate/mintflow/utils";
-import { DefaultProps } from "@mintgate/mintflow/theme";
+import { Link, LinkProps } from "@mintflow/link";
+import { cx, getValidChildren, __DEV__ } from "@mintflow/utils";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 import { cloneElement } from "react";
 

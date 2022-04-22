@@ -262,7 +262,7 @@ const demoList = [
 
 const component = {
   name: "Button",
-  importer: 'import { Button } from "@mintgate/mintflow/react"',
+  importer: 'import { Button } from "@mintflow/react"',
   demoList,
   propList,
 };

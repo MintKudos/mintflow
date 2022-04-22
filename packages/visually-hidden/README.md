@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/visually-hidden
+yarn add @mintflow/visually-hidden
 ```

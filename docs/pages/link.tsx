@@ -55,7 +55,7 @@ const demoList = [
 
 const linkComponent = {
   name: "Link",
-  importer: `import { Link } from "@mintgate/mintflow/react"`,
+  importer: `import { Link } from "@mintflow/react"`,
   demoList,
   propList,
 };

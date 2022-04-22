@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/divider
+yarn add @mintflow/divider
 ```

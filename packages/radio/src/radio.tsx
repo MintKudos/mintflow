@@ -1,6 +1,6 @@
-import { useFormControl } from "@mintgate/mintflow/forms";
-import { cx, __DEV__ } from "@mintgate/mintflow/utils";
-import { DefaultProps } from "@mintgate/mintflow/theme";
+import { useFormControl } from "@mintflow/forms";
+import { cx, __DEV__ } from "@mintflow/utils";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 
 import { useRadioClass, useRadioLabelClass } from "./styles";
