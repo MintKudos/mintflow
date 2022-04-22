@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/dot
+yarn add @mintgate/mintflow/dot
 ```

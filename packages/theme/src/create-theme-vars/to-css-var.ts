@@ -1,4 +1,4 @@
-import type { WithCSSVar, Dict } from "@mintflow/utils";
+import type { WithCSSVar, Dict } from "@mintgate/mintflow/utils";
 
 import { createThemeVars } from "./create-theme-vars";
 import { extractTokens, omitVars } from "./theme-tokens";

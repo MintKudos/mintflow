@@ -324,7 +324,7 @@ const demoList = [
 
 const radioComponent = {
   name: "Radio",
-  importer: 'import { Radio } from "@mintflow/react"',
+  importer: 'import { Radio } from "@mintgate/mintflow/react"',
   demoList,
   propList,
 };

@@ -6,8 +6,8 @@ module.exports = {
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
     "./layouts/**/*.{js,ts,jsx,tsx}",
-    "./node_modules/@mintflow/**/*.{js,ts,jsx,tsx}",
-    "../node_modules/@mintflow/**/*.{js,ts,jsx,tsx}",
+    "./node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}",
+    "../node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}",
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -80,7 +80,7 @@ module.exports = {
   plugins: [
     require("@tailwindcss/typography"),
     require("@tailwindcss/forms"),
-    require("@mintflow/core")({
+    require("@mintgate/mintflow/core")({
       colors: ["orange", "red", "blue"],
       cssBase: true,
     }),

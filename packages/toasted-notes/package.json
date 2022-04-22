@@ -1,5 +1,5 @@
 {
-  "name": "@mintflow/toasted-notes",
+  "name": "@mintgate/mintflow/toasted-notes",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",

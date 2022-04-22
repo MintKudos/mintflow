@@ -407,7 +407,7 @@ const demoList = [
 const tabsComponent = {
   name: "Tabs",
   importer: `import * as Tabs from "@radix-ui/react-tabs";
-import { cx } from "@mintflow/react";`,
+import { cx } from "@mintgate/mintflow/react";`,
   demoList,
   propList,
 };

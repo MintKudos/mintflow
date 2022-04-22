@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/react
+yarn add @mintgate/mintflow/react
 ```

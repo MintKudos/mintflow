@@ -1,4 +1,4 @@
-import { MintflowProvider, extendTheme } from "@mintflow/react";
+import { MintflowProvider, extendTheme } from "@mintgate/mintflow/react";
 import { useState, useMemo } from "react";
 import { withPerformance } from "storybook-addon-performance";
 import { light, dark, midnight, pale, dawn, bee, cool } from "./themes";

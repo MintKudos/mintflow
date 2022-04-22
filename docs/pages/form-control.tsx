@@ -149,7 +149,7 @@ const formControlComponent = {
   FormLabel,
   FormHelperText,
   FormErrorMessage,
-} from "@mintflow/react"`,
+} from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

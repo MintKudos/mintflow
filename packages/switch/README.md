@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/switch
+yarn add @mintgate/mintflow/switch
 ```

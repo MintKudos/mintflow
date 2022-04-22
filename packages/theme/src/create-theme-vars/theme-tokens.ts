@@ -1,4 +1,4 @@
-import { Dict, pick } from "@mintflow/utils";
+import { Dict, pick } from "@mintgate/mintflow/utils";
 
 const tokens = ["colors", "cursor", "rounded", "density"] as const;
 

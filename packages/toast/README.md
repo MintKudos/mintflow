@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/toasted-notes
+yarn add @mintgate/mintflow/toasted-notes
 ```

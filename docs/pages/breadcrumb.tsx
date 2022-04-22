@@ -138,7 +138,7 @@ const demoList = [
 
 const breadcrumbComponent = {
   name: "Breadcrumb",
-  importer: `import { Breadcrumb } from "@mintflow/react"`,
+  importer: `import { Breadcrumb } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

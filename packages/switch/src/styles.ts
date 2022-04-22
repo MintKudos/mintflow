@@ -1,5 +1,5 @@
-import { createMemoClass } from "@mintflow/theme";
-import { cx } from "@mintflow/utils";
+import { createMemoClass } from "@mintgate/mintflow/theme";
+import { cx } from "@mintgate/mintflow/utils";
 
 export const useSwitchBoxClass = createMemoClass((props) => {
   const sizes = {
