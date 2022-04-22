@@ -133,7 +133,7 @@ const demoList = [
 
 const notificationComponent = {
   name: "Notification",
-  importer: `import { useNotification } from "@vechaiui/react"`,
+  importer: `import { useNotification } from "@mintflow/react"`,
   demoList,
   propList,
 };

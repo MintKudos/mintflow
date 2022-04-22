@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/utils
+yarn add @mintflow/utils
 ```

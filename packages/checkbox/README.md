@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/checkbox
+yarn add @mintflow/checkbox
 ```

@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/switch
+yarn add @mintflow/switch
 ```

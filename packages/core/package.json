@@ -1,9 +1,9 @@
 {
-  "name": "@vechaiui/core",
+  "name": "@mintflow/core",
   "version": "0.6.0",
   "description": "> TODO: description",
   "author": "vechai <getvechai@gmail.com>",
-  "homepage": "https://github.com/vechai/vechaiui#readme",
+  "homepage": "https://github.com/vechai/mintflow#readme",
   "license": "MIT",
   "main": "src/index.js",
   "files": [
@@ -12,14 +12,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vechai/vechaiui.git"
+    "url": "git+https://github.com/vechai/mintflow.git"
   },
   "scripts": {
     "build": "node scripts/build.js",
     "version": "yarn build"
   },
   "bugs": {
-    "url": "https://github.com/vechai/vechaiui/issues"
+    "url": "https://github.com/vechai/mintflow/issues"
   },
   "peerDependencies": {
     "tailwindcss": ">=2.1.0"

@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/toasted-notes
+yarn add @mintflow/toasted-notes
 ```

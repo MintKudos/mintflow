@@ -185,7 +185,7 @@ const demoList = [
 
 const switchComponent = {
   name: "Switch",
-  importer: 'import { Switch } from "@vechaiui/react"',
+  importer: 'import { Switch } from "@mintflow/react"',
   demoList,
   propList,
 };

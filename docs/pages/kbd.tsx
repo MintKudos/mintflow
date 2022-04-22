@@ -23,7 +23,7 @@ const demoList = [
 
 const kbdComponent = {
   name: "Kbd",
-  importer: `import { Kbd } from "@vechaiui/react"`,
+  importer: `import { Kbd } from "@mintflow/react"`,
   demoList,
 };
 

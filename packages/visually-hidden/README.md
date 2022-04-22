@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/visually-hidden
+yarn add @mintflow/visually-hidden
 ```

@@ -1,5 +1,5 @@
-import { createMemoClass } from "@vechaiui/theme";
-import { cx } from "@vechaiui/utils";
+import { createMemoClass } from "@mintflow/theme";
+import { cx } from "@mintflow/utils";
 
 export const useInputClass = createMemoClass((props) => {
   const variantClasses = {

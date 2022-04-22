@@ -1,5 +1,5 @@
-import { cx } from "@vechaiui/utils";
-import { createMemoClass } from "@vechaiui/theme";
+import { cx } from "@mintflow/utils";
+import { createMemoClass } from "@mintflow/theme";
 
 const variantClasses = {
   subtle: "alert-subtle",

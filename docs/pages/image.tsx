@@ -73,7 +73,7 @@ const demoList = [
 
 const imageComponent = {
   name: "Image",
-  importer: `import { Image } from "@vechaiui/react"`,
+  importer: `import { Image } from "@mintflow/react"`,
   demoList,
   propList,
 };

@@ -1,3 +1,3 @@
-# Vechai UI Docs
+# Mintflow Docs
 
-The Documentation website for vechaiui.dev
+The Documentation website for mintflow.dev

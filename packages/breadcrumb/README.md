@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/breadcrumb
+yarn add @mintflow/breadcrumb
 ```

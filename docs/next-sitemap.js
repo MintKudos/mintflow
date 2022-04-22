@@ -1,3 +1,3 @@
 module.exports = {
-  siteUrl: "https://vechaiui.com",
+  siteUrl: "https://mintflow.com",
 };

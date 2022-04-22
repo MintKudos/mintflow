@@ -1,5 +1,5 @@
-import { DefaultProps } from "@vechaiui/theme";
-import { cx, getValidChildren, __DEV__ } from "@vechaiui/utils";
+import { DefaultProps } from "@mintflow/theme";
+import { cx, getValidChildren, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 
 import { Avatar, AvatarProps } from "./avatar";

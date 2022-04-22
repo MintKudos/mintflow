@@ -39,6 +39,6 @@ function buildDistFile(filename) {
 
 console.info("Building CSS...");
 
-Promise.all([buildDistFile("vechaiui")]).then(() => {
+Promise.all([buildDistFile("mintflow")]).then(() => {
   console.log("Finished building CSS.");
 });

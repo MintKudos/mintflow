@@ -3,70 +3,70 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [0.2.1](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.8...@vechaiui/tag@0.2.1) (2021-11-10)
+## [0.2.1](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.8...@mintflow/tag@0.2.1) (2021-11-10)
 
-**Note:** Version bump only for package @vechaiui/tag
-
-
-
-
-
-## [0.1.8](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.7...@vechaiui/tag@0.1.8) (2021-08-28)
-
-**Note:** Version bump only for package @vechaiui/tag
+**Note:** Version bump only for package @mintflow/tag
 
 
 
 
 
-## [0.1.7](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.6...@vechaiui/tag@0.1.7) (2021-07-07)
+## [0.1.8](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.7...@mintflow/tag@0.1.8) (2021-08-28)
 
-**Note:** Version bump only for package @vechaiui/tag
-
-
-
-
-
-## [0.1.6](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.5...@vechaiui/tag@0.1.6) (2021-07-02)
-
-**Note:** Version bump only for package @vechaiui/tag
+**Note:** Version bump only for package @mintflow/tag
 
 
 
 
 
-## [0.1.5](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.4...@vechaiui/tag@0.1.5) (2021-07-01)
+## [0.1.7](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.6...@mintflow/tag@0.1.7) (2021-07-07)
 
-**Note:** Version bump only for package @vechaiui/tag
-
-
-
-
-
-## [0.1.4](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.3...@vechaiui/tag@0.1.4) (2021-06-29)
-
-**Note:** Version bump only for package @vechaiui/tag
+**Note:** Version bump only for package @mintflow/tag
 
 
 
 
 
-## [0.1.3](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.2...@vechaiui/tag@0.1.3) (2021-06-29)
+## [0.1.6](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.5...@mintflow/tag@0.1.6) (2021-07-02)
 
-**Note:** Version bump only for package @vechaiui/tag
-
-
-
-
-
-## [0.1.2](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.1...@vechaiui/tag@0.1.2) (2021-06-29)
-
-**Note:** Version bump only for package @vechaiui/tag
+**Note:** Version bump only for package @mintflow/tag
 
 
 
 
 
-## [0.1.1](https://github.com/vechai/vechaiui/compare/@vechaiui/tag@0.1.0...@vechaiui/tag@0.1.1) (2021-06-17)
+## [0.1.5](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.4...@mintflow/tag@0.1.5) (2021-07-01)
 
-**Note:** Version bump only for package @vechaiui/tag
+**Note:** Version bump only for package @mintflow/tag
+
+
+
+
+
+## [0.1.4](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.3...@mintflow/tag@0.1.4) (2021-06-29)
+
+**Note:** Version bump only for package @mintflow/tag
+
+
+
+
+
+## [0.1.3](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.2...@mintflow/tag@0.1.3) (2021-06-29)
+
+**Note:** Version bump only for package @mintflow/tag
+
+
+
+
+
+## [0.1.2](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.1...@mintflow/tag@0.1.2) (2021-06-29)
+
+**Note:** Version bump only for package @mintflow/tag
+
+
+
+
+
+## [0.1.1](https://github.com/vechai/mintflow/compare/@mintflow/tag@0.1.0...@mintflow/tag@0.1.1) (2021-06-17)
+
+**Note:** Version bump only for package @mintflow/tag

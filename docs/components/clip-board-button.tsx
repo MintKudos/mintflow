@@ -1,5 +1,5 @@
 import { DuplicateIcon, CheckIcon } from "@heroicons/react/outline";
-import { IconButton, Icon, IconButtonProps } from "@vechaiui/react";
+import { IconButton, Icon, IconButtonProps } from "@mintflow/react";
 import * as React from "react";
 import useClipboard from "react-use-clipboard";
 

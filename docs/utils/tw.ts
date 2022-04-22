@@ -6,7 +6,7 @@ module.exports = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@vechaiui/**/*.{js,ts,jsx,tsx}", // path to vechaiui
+    "./node_modules/@mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -19,10 +19,10 @@ module.exports = {
   variants: {
     extend: {},
   },
-  // add VechaiUI plugin
+  // add mintflow plugin
   plugins: [
     require("@tailwindcss/forms"),
-    require("@vechaiui/core")({
+    require("@mintflow/core")({
       colors: ["orange"],
     }),
     // ...
@@ -37,7 +37,7 @@ export const tabsEndClosedTWFile = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@vechaiui/**/*.{js,ts,jsx,tsx}", // path to vechaiui
+    "./node_modules/@mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -50,10 +50,10 @@ export const tabsEndClosedTWFile = {
   variants: {
     extend: {},
   },
-  // add VechaiUI plugin
+  // add mintflow plugin
   plugins: [
     require("@tailwindcss/forms"),
-    require("@vechaiui/core"),
+    require("@mintflow/core"),
     // ...
   ],
 };`,

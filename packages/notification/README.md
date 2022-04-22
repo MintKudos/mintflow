@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/notification
+yarn add @mintflow/notification
 ```

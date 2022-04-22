@@ -88,7 +88,7 @@ const demoList = [
 
 const iconButtonComponent = {
   name: "IconButton",
-  importer: `import { IconButton } from "@vechaiui/react"`,
+  importer: `import { IconButton } from "@mintflow/react"`,
   demoList,
   propList,
 };

@@ -1,5 +1,5 @@
 {
-  "name": "@vechaiui/theme",
+  "name": "@mintflow/theme",
   "version": "0.4.0",
   "sideEffects": false,
   "license": "MIT",
@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@emotion/react": "^11.5.0",
-    "@vechaiui/utils": "^0.1.0",
+    "@mintflow/utils": "^0.1.0",
     "lodash.set": "^4.3.2"
   },
   "peerDependencies": {

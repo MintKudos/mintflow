@@ -1,4 +1,4 @@
-import { FormControl, FormLabel } from "@vechaiui/forms";
+import { FormControl, FormLabel } from "@mintflow/forms";
 import { Switch } from "../src";
 
 export default {

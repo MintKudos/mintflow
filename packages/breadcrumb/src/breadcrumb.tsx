@@ -1,6 +1,6 @@
-import { Link, LinkProps } from "@vechaiui/link";
-import { cx, getValidChildren, __DEV__ } from "@vechaiui/utils";
-import { DefaultProps } from "@vechaiui/theme";
+import { Link, LinkProps } from "@mintflow/link";
+import { cx, getValidChildren, __DEV__ } from "@mintflow/utils";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 import { cloneElement } from "react";
 

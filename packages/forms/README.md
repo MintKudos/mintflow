@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/forms
+yarn add @mintflow/forms
 ```

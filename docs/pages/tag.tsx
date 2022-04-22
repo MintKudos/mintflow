@@ -145,7 +145,7 @@ const demoList = [
 
 const tagComponent = {
   name: "Tag",
-  importer: `import { Tag } from "@vechaiui/react"`,
+  importer: `import { Tag } from "@mintflow/react"`,
   demoList,
   propList,
 };

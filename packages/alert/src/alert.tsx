@@ -1,6 +1,6 @@
-import { cx, __DEV__ } from "@vechaiui/utils";
-import { Icon, XIcon } from "@vechaiui/icon";
-import { DefaultProps } from "@vechaiui/theme";
+import { cx, __DEV__ } from "@mintflow/utils";
+import { Icon, XIcon } from "@mintflow/icon";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 
 import { useAlertClass, useAlertCloseButton } from "./styles";

@@ -4,9 +4,9 @@ import {
   XCricleIcon,
   CheckCircleIcon,
   ExclamationIcon,
-} from "@vechaiui/icon";
-import { createToast, useToastOptions } from "@vechaiui/toast";
-import { cx as clsx, __DEV__ } from "@vechaiui/utils";
+} from "@mintflow/icon";
+import { createToast, useToastOptions } from "@mintflow/toast";
+import { cx as clsx, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 
 const statuses = {

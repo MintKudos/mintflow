@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/message
+yarn add @mintflow/message
 ```

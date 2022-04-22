@@ -1,5 +1,5 @@
-import { createMemoClass } from "@vechaiui/theme";
-import { cx } from "@vechaiui/utils";
+import { createMemoClass } from "@mintflow/theme";
+import { cx } from "@mintflow/utils";
 
 const sizes = {
   xs: "w-3 h-3",

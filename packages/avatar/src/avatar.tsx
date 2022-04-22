@@ -1,6 +1,6 @@
-import { useImage } from "@vechaiui/image";
-import { DefaultProps } from "@vechaiui/theme";
-import { cx, __DEV__ } from "@vechaiui/utils";
+import { useImage } from "@mintflow/image";
+import { DefaultProps } from "@mintflow/theme";
+import { cx, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 
 import { useAvatarClass, useAvatarNameClass } from "./styles";

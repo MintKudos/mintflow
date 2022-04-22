@@ -1,4 +1,4 @@
-import { FormControl, FormHelperText, FormLabel } from "@vechaiui/forms";
+import { FormControl, FormHelperText, FormLabel } from "@mintflow/forms";
 import { Radio } from "../src";
 
 export default {

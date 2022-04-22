@@ -1,4 +1,4 @@
-import { ColorScheme, colors } from "@vechaiui/react";
+import { ColorScheme, colors } from "@mintflow/react";
 
 // light theme
 export const light: ColorScheme = {

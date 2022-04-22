@@ -1,4 +1,4 @@
-const baseUrl = "https://github.com/vechai/vechaiui";
+const baseUrl = "https://github.com/vechai/mintflow";
 
 const siteConfig = {
   repo: {
@@ -8,38 +8,38 @@ const siteConfig = {
   },
   seo: {
     title: "React Tailwind CSS Components.",
-    titleTemplate: "%s - Vechai UI",
+    titleTemplate: "%s - Mintflow",
     description:
       "Collection of Accessible React UI Components using TailwindCSS.",
-    siteUrl: "https://vechaiui.com",
+    siteUrl: "https://mintflow.com",
     twitter: {
-      handle: "@vechaiui",
-      site: "@vechaiui",
+      handle: "@mintflow",
+      site: "@mintflow",
       cardType: "summary_large_image",
     },
     openGraph: {
       type: "website",
       locale: "en_US",
-      url: "https://vechaiui.com",
-      title: "Vechai UI - Tailwind CSS Components",
+      url: "https://mintflow.com",
+      title: "Mintflow - Tailwind CSS Components",
       description:
         "Collection of Accessible React UI Components using TailwindCSS.",
       site_name:
-        "Vechai UI: Collection of Accessible React UI Components using TailwindCSS.",
+        "Mintflow: Collection of Accessible React UI Components using TailwindCSS.",
       images: [
         {
-          url: "https://vechaiui.com/og-image.png",
+          url: "https://mintflow.com/og-image.png",
           width: 1200,
           height: 627,
           alt:
-            "Vechai UI: Collection of Accessible React UI Components using TailwindCSS.",
+            "Mintflow: Collection of Accessible React UI Components using TailwindCSS.",
         },
         {
-          url: "https://vechaiui.com/twitter-og-image.png",
+          url: "https://mintflow.com/twitter-og-image.png",
           width: 1012,
           height: 506,
           alt:
-            "Vechai UI: Collection of Accessible React UI Components using TailwindCSS.",
+            "Mintflow: Collection of Accessible React UI Components using TailwindCSS.",
         },
       ],
     },

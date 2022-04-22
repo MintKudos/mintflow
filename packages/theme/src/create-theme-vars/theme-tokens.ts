@@ -1,4 +1,4 @@
-import { Dict, pick } from "@vechaiui/utils";
+import { Dict, pick } from "@mintflow/utils";
 
 const tokens = ["colors", "cursor", "rounded", "density"] as const;
 

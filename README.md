@@ -1,17 +1,17 @@
-# Vechai UI
+# Mintflow
 
 <div align="center">
 Collection of Accessible React UI Components using TailwindCSS.
 
-[![npm latest package](https://img.shields.io/npm/v/@vechaiui/react/latest.svg)](https://www.npmjs.com/package/@vechaiui/react)
-[![npm downloads](https://img.shields.io/npm/dm/@vechaiui/react.svg)](https://www.npmjs.com/package/@vechaiui/react)
+[![npm latest package](https://img.shields.io/npm/v/@mintflow/react/latest.svg)](https://www.npmjs.com/package/@mintflow/react)
+[![npm downloads](https://img.shields.io/npm/dm/@mintflow/react.svg)](https://www.npmjs.com/package/@mintflow/react)
 
 </div>
 
 ![](docs/public/themes/screenshot.png)
 
--  Documentation: [vechaiui.com](https://www.vechaiui.com/getting-started)
--  NPM: [@vechaiui/react](https://www.npmjs.com/package/@vechaiui/react)
+-  Documentation: [mintflow.com](https://www.mintflow.com/getting-started)
+-  NPM: [@mintflow/react](https://www.npmjs.com/package/@mintflow/react)
 ## ✨ Features
 
 - 📦 A set of accessibility React components & pre-designed headlessui + radix-ui components.
@@ -22,13 +22,13 @@ Collection of Accessible React UI Components using TailwindCSS.
 ## Installation
 
 ```
-npm i @vechaiui/core @vechaiui/react @tailwindcss/forms
+npm i @mintflow/core @mintflow/react @tailwindcss/forms
 ```
 
 **Yarn**
 
 ```
-yarn add @vechaiui/core @vechaiui/react @tailwindcss/forms
+yarn add @mintflow/core @mintflow/react @tailwindcss/forms
 ```
 
 ## Development

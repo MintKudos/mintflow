@@ -1,5 +1,5 @@
 {
-  "name": "@vechaiui/visually-hidden",
+  "name": "@mintflow/visually-hidden",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,7 +37,7 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@vechaiui/utils": "0.2.1"
+    "@mintflow/utils": "0.2.1"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

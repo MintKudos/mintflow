@@ -1,5 +1,5 @@
-import { toaster, Position } from "@vechaiui/toasted-notes";
-import { DefaultProps } from "@vechaiui/theme";
+import { toaster, Position } from "@mintflow/toasted-notes";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 import { useCallback } from "react";
 

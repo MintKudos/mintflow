@@ -1,4 +1,4 @@
-import { VechaiProvider, extendTheme } from "@vechaiui/react";
+import { VechaiProvider, extendTheme } from "@mintflow/react";
 import { useState, useMemo } from "react";
 import { withPerformance } from "storybook-addon-performance";
 import { light, dark, midnight, pale, dawn, bee, cool } from "./themes";

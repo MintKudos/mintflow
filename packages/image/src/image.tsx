@@ -1,5 +1,5 @@
-import { DefaultProps } from "@vechaiui/theme";
-import { omit, __DEV__ } from "@vechaiui/utils";
+import { DefaultProps } from "@mintflow/theme";
+import { omit, __DEV__ } from "@mintflow/utils";
 import * as React from "react";
 import { useImage, UseImageProps } from "./use-image";
 

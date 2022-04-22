@@ -223,7 +223,7 @@ const demoList = [
 const disclosureComponent = {
   name: "Disclosure",
   importer: `import { Disclosure } from "@headlessui/react";
-import { cx } from "@vechaiui/react";`,
+import { cx } from "@mintflow/react";`,
   demoList,
   propList,
 };

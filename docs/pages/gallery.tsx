@@ -31,7 +31,7 @@ import {
   useMessage,
   useNotification,
   cx,
-} from "@vechaiui/react";
+} from "@mintflow/react";
 import {
   Menu,
   Listbox,

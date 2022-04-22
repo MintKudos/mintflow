@@ -1,5 +1,5 @@
-import { cx, __DEV__ } from "@vechaiui/utils";
-import { DefaultProps } from "@vechaiui/theme";
+import { cx, __DEV__ } from "@mintflow/utils";
+import { DefaultProps } from "@mintflow/theme";
 import * as React from "react";
 
 interface ICodeProps extends DefaultProps {}

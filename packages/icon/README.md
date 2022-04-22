@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/icon
+yarn add @mintflow/icon
 ```
