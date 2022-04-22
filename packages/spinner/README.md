@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/spinner
+yarn add @mintgate/mintflow/spinner
 ```

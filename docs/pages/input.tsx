@@ -187,7 +187,7 @@ const demoList = [
 
 const inputComponent = {
   name: "Input",
-  importer: `import { Input } from "@vechaiui/react"`,
+  importer: `import { Input } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

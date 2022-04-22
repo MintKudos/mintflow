@@ -1,5 +1,5 @@
 {
-  "name": "@vechaiui/divider",
+  "name": "@mintgate/mintflow/divider",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,8 +37,8 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@vechaiui/theme": "0.4.0",
-    "@vechaiui/utils": "^0.1.0"
+    "@mintgate/mintflow/theme": "0.4.0",
+    "@mintgate/mintflow/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

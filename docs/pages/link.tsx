@@ -55,7 +55,7 @@ const demoList = [
 
 const linkComponent = {
   name: "Link",
-  importer: `import { Link } from "@vechaiui/react"`,
+  importer: `import { Link } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

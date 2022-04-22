@@ -1,4 +1,4 @@
-import { DeepPartial } from "@vechaiui/utils";
+import { DeepPartial } from "@mintgate/mintflow/utils";
 
 export type RecursiveProperty<Nested = string | number> =
   | RecursiveObject<Nested>

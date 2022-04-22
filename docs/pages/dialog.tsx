@@ -194,7 +194,7 @@ const demoList = [
 const dialogComponent = {
   name: "Dialog",
   importer: `import { Dialog, Transition } from "@headlessui/react";
-import { cx } from "@vechaiui/react";`,
+import { cx } from "@mintgate/mintflow/react";`,
   demoList,
   propList,
 };

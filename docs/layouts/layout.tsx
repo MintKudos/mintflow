@@ -1,4 +1,4 @@
-import { cx, IconButton } from "@vechaiui/react";
+import { cx, IconButton } from "@mintgate/mintflow/react";
 import * as React from "react";
 import { useRouter } from "next/router";
 import Link from "next/link";

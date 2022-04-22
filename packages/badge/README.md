@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/badge
+yarn add @mintgate/mintflow/badge
 ```

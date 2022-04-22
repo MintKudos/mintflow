@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/react
+yarn add @mintgate/mintflow/react
 ```

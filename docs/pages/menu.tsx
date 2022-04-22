@@ -419,7 +419,7 @@ const demoList = [
 const menuComponent = {
   name: "Menu",
   importer: `import { Menu, Transition } from "@headlessui/react";
-import { cx } from "@vechaiui/react";`,
+import { cx } from "@mintgate/mintflow/react";`,
   demoList,
   propList,
 };

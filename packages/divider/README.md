@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/divider
+yarn add @mintgate/mintflow/divider
 ```

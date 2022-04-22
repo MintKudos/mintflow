@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @vechaiui/dot
+yarn add @mintgate/mintflow/dot
 ```

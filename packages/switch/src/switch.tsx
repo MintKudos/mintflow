@@ -1,7 +1,7 @@
-import { useFormControl } from "@vechaiui/forms";
-import { DefaultProps } from "@vechaiui/theme";
-import { cx, __DEV__ } from "@vechaiui/utils";
-import VisuallyHidden from "@vechaiui/visually-hidden";
+import { useFormControl } from "@mintgate/mintflow/forms";
+import { DefaultProps } from "@mintgate/mintflow/theme";
+import { cx, __DEV__ } from "@mintgate/mintflow/utils";
+import VisuallyHidden from "@mintgate/mintflow/visually-hidden";
 import * as React from "react";
 
 import { useSwitchClass, useSwitchBoxClass } from "./styles";

@@ -4,7 +4,7 @@ import {
   BeakerIcon,
   ColorSwatchIcon
 } from "@heroicons/react/outline";
-import { Button, Icon, cx } from "@vechaiui/react";
+import { Button, Icon, cx } from "@mintgate/mintflow/react";
 import * as React from "react";
 
 import { Github, Twitter } from "@libs/react-feather";

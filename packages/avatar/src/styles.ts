@@ -1,5 +1,5 @@
-import { cx } from "@vechaiui/utils";
-import { createMemoClass } from "@vechaiui/theme";
+import { cx } from "@mintgate/mintflow/utils";
+import { createMemoClass } from "@mintgate/mintflow/theme";
 
 export const useAvatarNameClass = createMemoClass((props) => {
   const sizes = {

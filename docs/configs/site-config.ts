@@ -13,8 +13,8 @@ const siteConfig = {
       "Collection of Accessible React UI Components using TailwindCSS.",
     siteUrl: "https://vechaiui.com",
     twitter: {
-      handle: "@vechaiui",
-      site: "@vechaiui",
+      handle: "@mintgate/mintflow",
+      site: "@mintgate/mintflow",
       cardType: "summary_large_image",
     },
     openGraph: {

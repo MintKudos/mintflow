@@ -1,5 +1,5 @@
 {
-  "name": "@vechaiui/tag",
+  "name": "@mintgate/mintflow/tag",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",
@@ -37,9 +37,9 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@vechaiui/icon": "0.1.7",
-    "@vechaiui/theme": "0.4.0",
-    "@vechaiui/utils": "^0.1.0"
+    "@mintgate/mintflow/icon": "0.1.7",
+    "@mintgate/mintflow/theme": "0.4.0",
+    "@mintgate/mintflow/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

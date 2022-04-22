@@ -1,4 +1,4 @@
-import { Button } from "@vechaiui/button";
+import { Button } from "@mintgate/mintflow/button";
 import {
   Icon,
   InfoIcon,
@@ -6,9 +6,9 @@ import {
   XCricleIcon,
   CheckCircleIcon,
   ExclamationIcon,
-} from "@vechaiui/icon";
-import { createToast, useToastOptions } from "@vechaiui/toast";
-import { cx as clsx, __DEV__ } from "@vechaiui/utils";
+} from "@mintgate/mintflow/icon";
+import { createToast, useToastOptions } from "@mintgate/mintflow/toast";
+import { cx as clsx, __DEV__ } from "@mintgate/mintflow/utils";
 import * as React from "react";
 
 const statuses = {

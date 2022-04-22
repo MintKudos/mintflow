@@ -1,6 +1,6 @@
-import { DefaultProps } from "@vechaiui/theme";
-import { Icon, XIcon } from "@vechaiui/icon";
-import { cx, __DEV__ } from "@vechaiui/utils";
+import { DefaultProps } from "@mintgate/mintflow/theme";
+import { Icon, XIcon } from "@mintgate/mintflow/icon";
+import { cx, __DEV__ } from "@mintgate/mintflow/utils";
 import * as React from "react";
 
 import { useTagClass } from "./styles";

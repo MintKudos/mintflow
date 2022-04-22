@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.6.0](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.5.1...@vechaiui/core@0.6.0) (2021-11-10)
+# [0.6.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.5.1...@mintgate/mintflow/core@0.6.0) (2021-11-10)
 
 
 ### Features
@@ -16,7 +16,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.5.1](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.5.0...@vechaiui/core@0.5.1) (2021-09-29)
+## [0.5.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.5.0...@mintgate/mintflow/core@0.5.1) (2021-09-29)
 
 
 ### Bug Fixes
@@ -27,7 +27,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.5.0](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.4.1...@vechaiui/core@0.5.0) (2021-08-01)
+# [0.5.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.4.1...@mintgate/mintflow/core@0.5.0) (2021-08-01)
 
 
 ### Features
@@ -39,7 +39,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.4.1](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.4.0...@vechaiui/core@0.4.1) (2021-07-23)
+## [0.4.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.4.0...@mintgate/mintflow/core@0.4.1) (2021-07-23)
 
 
 ### Bug Fixes
@@ -50,7 +50,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.4.0](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.7...@vechaiui/core@0.4.0) (2021-07-15)
+# [0.4.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.7...@mintgate/mintflow/core@0.4.0) (2021-07-15)
 
 
 ### Features
@@ -61,7 +61,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.7](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.6...@vechaiui/core@0.3.7) (2021-07-07)
+## [0.3.7](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.6...@mintgate/mintflow/core@0.3.7) (2021-07-07)
 
 
 ### Bug Fixes
@@ -72,7 +72,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.6](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.5...@vechaiui/core@0.3.6) (2021-07-04)
+## [0.3.6](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.5...@mintgate/mintflow/core@0.3.6) (2021-07-04)
 
 
 ### Bug Fixes
@@ -83,7 +83,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.5](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.4...@vechaiui/core@0.3.5) (2021-07-03)
+## [0.3.5](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.4...@mintgate/mintflow/core@0.3.5) (2021-07-03)
 
 
 ### Bug Fixes
@@ -94,7 +94,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.4](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.3...@vechaiui/core@0.3.4) (2021-07-01)
+## [0.3.4](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.3...@mintgate/mintflow/core@0.3.4) (2021-07-01)
 
 
 ### Bug Fixes
@@ -105,7 +105,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.3](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.1...@vechaiui/core@0.3.3) (2021-06-30)
+## [0.3.3](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.1...@mintgate/mintflow/core@0.3.3) (2021-06-30)
 
 
 ### Features
@@ -116,7 +116,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.3.0...@vechaiui/core@0.3.1) (2021-06-29)
+## [0.3.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.3.0...@mintgate/mintflow/core@0.3.1) (2021-06-29)
 
 
 ### Bug Fixes
@@ -127,7 +127,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.3.0](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.2.0...@vechaiui/core@0.3.0) (2021-06-29)
+# [0.3.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.2.0...@mintgate/mintflow/core@0.3.0) (2021-06-29)
 
 
 ### Features
@@ -138,7 +138,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.1.1...@vechaiui/core@0.2.0) (2021-06-17)
+# [0.2.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.1.1...@mintgate/mintflow/core@0.2.0) (2021-06-17)
 
 
 ### Features
@@ -149,7 +149,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/vechai/vechaiui/compare/@vechaiui/core@0.1.0...@vechaiui/core@0.1.1) (2021-06-17)
+## [0.1.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/core@0.1.0...@mintgate/mintflow/core@0.1.1) (2021-06-17)
 
 
 ### Bug Fixes

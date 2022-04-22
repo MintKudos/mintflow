@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.4.0](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.3.1...@vechaiui/theme@0.4.0) (2021-11-10)
+# [0.4.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.3.1...@mintgate/mintflow/theme@0.4.0) (2021-11-10)
 
 
 ### Features
@@ -15,15 +15,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.3.1](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.3.0...@vechaiui/theme@0.3.1) (2021-08-28)
+## [0.3.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.3.0...@mintgate/mintflow/theme@0.3.1) (2021-08-28)
 
-**Note:** Version bump only for package @vechaiui/theme
-
-
+**Note:** Version bump only for package @mintgate/mintflow/theme
 
 
 
-# [0.3.0](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.2.2...@vechaiui/theme@0.3.0) (2021-07-02)
+
+
+# [0.3.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.2.2...@mintgate/mintflow/theme@0.3.0) (2021-07-02)
 
 
 ### Features
@@ -34,7 +34,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.2](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.2.1...@vechaiui/theme@0.2.2) (2021-07-01)
+## [0.2.2](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.2.1...@mintgate/mintflow/theme@0.2.2) (2021-07-01)
 
 
 ### Bug Fixes
@@ -45,7 +45,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.2.1](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.2.0...@vechaiui/theme@0.2.1) (2021-06-29)
+## [0.2.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.2.0...@mintgate/mintflow/theme@0.2.1) (2021-06-29)
 
 
 ### Bug Fixes
@@ -56,7 +56,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [0.2.0](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.1.1...@vechaiui/theme@0.2.0) (2021-06-29)
+# [0.2.0](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.1.1...@mintgate/mintflow/theme@0.2.0) (2021-06-29)
 
 
 ### Features
@@ -67,7 +67,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-## [0.1.1](https://github.com/vechai/vechaiui/compare/@vechaiui/theme@0.1.0...@vechaiui/theme@0.1.1) (2021-06-17)
+## [0.1.1](https://github.com/vechai/vechaiui/compare/@mintgate/mintflow/theme@0.1.0...@mintgate/mintflow/theme@0.1.1) (2021-06-17)
 
 
 ### Bug Fixes

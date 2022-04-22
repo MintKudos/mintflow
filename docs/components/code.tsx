@@ -1,4 +1,4 @@
-import { cx } from "@vechaiui/react";
+import { cx } from "@mintgate/mintflow/react";
 import * as React from "react";
 
 import Editor from "@libs/react-codex";

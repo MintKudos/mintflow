@@ -1,16 +1,10 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@1.6.0/schema.json",
-  "changelog": [
-    "@changesets/changelog-github",
-    { "repo": "MintKudos/mintflow" }
-  ],  
+  "changelog": "@changesets/cli/changelog",
   "commit": false,
   "linked": [],
-  "access": "public",
-  "baseBranch": "main",
+  "access": "restricted",
+  "baseBranch": "master",
   "updateInternalDependencies": "patch",
-  "___experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
-    "onlyUpdatePeerDependentsWhenOutOfRange": true
-  },
   "ignore": []
 }

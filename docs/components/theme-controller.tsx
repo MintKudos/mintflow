@@ -3,7 +3,7 @@ import {
   VechaiProvider,
   extendTheme,
   VechaiProviderProps,
-} from "@vechaiui/react";
+} from "@mintgate/mintflow/react";
 
 import { light, dark, midnight, pale, dawn, bee, cool } from "@utils/themes";
 

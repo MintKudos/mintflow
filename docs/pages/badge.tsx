@@ -92,7 +92,7 @@ const demoList = [
 
 const badgeComponent = {
   name: "Badge",
-  importer: `import { Badge } from "@vechaiui/react"`,
+  importer: `import { Badge } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

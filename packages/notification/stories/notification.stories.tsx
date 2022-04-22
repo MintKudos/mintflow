@@ -1,4 +1,4 @@
-import { Button } from "@vechaiui/button";
+import { Button } from "@mintgate/mintflow/button";
 import { useNotification } from "../src";
 
 export default {

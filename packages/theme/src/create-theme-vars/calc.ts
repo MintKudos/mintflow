@@ -1,7 +1,7 @@
 /**
  * Thank you @markdalgleish for this piece of art!
  */
-import { isObject } from "@vechaiui/utils";
+import { isObject } from "@mintgate/mintflow/utils";
 
 export type Operand = string | number | { reference: string };
 type Operator = "+" | "-" | "*" | "/";

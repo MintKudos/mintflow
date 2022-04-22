@@ -1,5 +1,5 @@
 {
-  "name": "@vechaiui/button",
+  "name": "@mintgate/mintflow/button",
   "version": "0.2.2",
   "sideEffects": false,
   "license": "MIT",
@@ -37,9 +37,9 @@
     "react": "^17.0.2"
   },
   "dependencies": {
-    "@vechaiui/spinner": "0.1.6",
-    "@vechaiui/theme": "0.4.0",
-    "@vechaiui/utils": "^0.1.0"
+    "@mintgate/mintflow/spinner": "0.1.6",
+    "@mintgate/mintflow/theme": "0.4.0",
+    "@mintgate/mintflow/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

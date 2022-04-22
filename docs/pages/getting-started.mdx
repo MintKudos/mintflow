@@ -7,11 +7,11 @@ VechaiUI works out of the box with create-react-app (including TypeScript versio
 To install the VechaiUI run the following within your project directory.
 
 ```bash
-npm i @vechaiui/core @vechaiui/react @tailwindcss/forms
+npm i @mintgate/mintflow/core @mintgate/mintflow/react @tailwindcss/forms
 
 # OR
 
-yarn add @vechaiui/core @vechaiui/react @tailwindcss/forms
+yarn add @mintgate/mintflow/core @mintgate/mintflow/react @tailwindcss/forms
 ```
 
 ## Configuration
@@ -26,7 +26,7 @@ module.exports = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@vechaiui/**/*.{js,ts,jsx,tsx}", // path to vechaiui
+    "./node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}", // path to vechaiui
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -37,7 +37,7 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/forms"),
-    require("@vechaiui/core"),
+    require("@mintgate/mintflow/core"),
   ],
 };
 ```
@@ -50,7 +50,7 @@ Here's a quick example to get you started, **it's literally all you need:**
 
 ```jsx
 import * as React from "react";
-import { VechaiProvider, Button } from "@vechaiui/react";
+import { VechaiProvider, Button } from "@mintgate/mintflow/react";
 
 function App() {
   return (
