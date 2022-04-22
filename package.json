@@ -1,7 +1,7 @@
 {
-  "name": "@mintgate/mintflow",
-  "private": false,
-  "version": "1.0.1-5",
+  "name": "mintflow",
+  "private": true,
+  "version": "1.0.0",
   "workspaces": {
     "packages": [
       "packages/*",
@@ -22,11 +22,11 @@
     "start:all": "yarn build && concurrently \"yarn docs dev\"  \"yarn storybook\" ",
     "build": "lerna run build --no-private --stream",
     "bootstrap": "yarn install && lerna bootstrap --use-workspaces",
-    "test": "echo \"No test specified\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "release": "changeset publish",
-    "docs": "yarn workspace @mintgate/mintflow/docs",
+    "docs": "yarn workspace @vechaiui/docs",
     "docs:dev": "yarn docs dev",
     "docs:start": "yarn docs start"
   },
