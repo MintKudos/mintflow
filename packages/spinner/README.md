@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/spinner
+yarn add @mintgate/mintflow/spinner
 ```

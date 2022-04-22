@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/forms
+yarn add @mintgate/mintflow/forms
 ```

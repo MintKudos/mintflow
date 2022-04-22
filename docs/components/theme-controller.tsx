@@ -3,7 +3,7 @@ import {
   MintflowProvider,
   extendTheme,
   MintflowProviderProps,
-} from "@mintflow/react";
+} from "@mintgate/mintflow/react";
 
 import { light, dark, midnight, pale, dawn, bee, cool } from "@utils/themes";
 

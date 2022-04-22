@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintflow/image
+yarn add @mintgate/mintflow/image
 ```

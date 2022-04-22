@@ -75,7 +75,7 @@ const demoList = [
 
 const textareaComponent = {
   name: "Textarea",
-  importer: `import { Textarea } from "@mintflow/react"`,
+  importer: `import { Textarea } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };

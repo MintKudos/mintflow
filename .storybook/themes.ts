@@ -1,5 +1,5 @@
 import colors from "tailwindcss/colors";
-import { ColorScheme } from "@mintflow/react";
+import { ColorScheme } from "@mintgate/mintflow/react";
 // light theme
 export const light: ColorScheme = {
   id: "light",

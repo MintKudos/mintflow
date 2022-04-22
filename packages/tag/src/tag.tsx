@@ -1,6 +1,6 @@
-import { DefaultProps } from "@mintflow/theme";
-import { Icon, XIcon } from "@mintflow/icon";
-import { cx, __DEV__ } from "@mintflow/utils";
+import { DefaultProps } from "@mintgate/mintflow/theme";
+import { Icon, XIcon } from "@mintgate/mintflow/icon";
+import { cx, __DEV__ } from "@mintgate/mintflow/utils";
 import * as React from "react";
 
 import { useTagClass } from "./styles";

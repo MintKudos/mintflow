@@ -1,5 +1,5 @@
 {
-  "name": "@mintflow/utils",
+  "name": "@mintgate/mintflow/utils",
   "version": "0.2.1",
   "sideEffects": false,
   "license": "MIT",

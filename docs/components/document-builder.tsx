@@ -1,5 +1,5 @@
 import * as Tabs from "@radix-ui/react-tabs";
-import { Link } from "@mintflow/react";
+import { Link } from "@mintgate/mintflow/react";
 import * as React from "react";
 import NextLink from "next/link";
 

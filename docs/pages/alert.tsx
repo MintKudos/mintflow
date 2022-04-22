@@ -97,7 +97,7 @@ const demoList = [
 
 const alertComponent = {
   name: "Alert",
-  importer: `import { Alert } from "@mintflow/react"`,
+  importer: `import { Alert } from "@mintgate/mintflow/react"`,
   demoList,
   propList,
 };
