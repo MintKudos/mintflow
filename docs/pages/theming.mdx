@@ -1,16 +1,16 @@
 # Theming
 
-By default all Vechai components use the default theme. You can extend and customize theme on top level with MintflowProvider.
+By default all Vechai components use the default theme. You can extend and customize theme on top level with VechaiProvider.
 
-## MintflowProvider
+## VechaiProvider
 
-MintflowProvider component allows you to change theme globally. It is not required if you decide to stick with default theme:
+VechaiProvider component allows you to change theme globally. It is not required if you decide to stick with default theme:
 
 ```jsx
 import * as React from "react";
 
-// 1. import `MintflowProvider` component
-import { MintflowProvider, Button } from "@mintgate/mintflow/react";
+// 1. import `VechaiProvider` component
+import { VechaiProvider, Button } from "@vechaiui/react";
 
 function App() {
   return <Button>Button</Button>;
@@ -19,9 +19,9 @@ function App() {
 function ThemedApp() {
   // 2. Use at the root of your app
   return (
-    <MintflowProvider>
+    <VechaiProvider>
       <App />
-    </MintflowProvider>
+    </VechaiProvider>
   )
 }
 ```
@@ -60,7 +60,7 @@ For a complete reference of available theme properties and their default values,
 
 ```jsx
 // 1. Import `extendTheme`
-import { extendTheme, colors } from "@mintgate/mintflow/react";
+import { extendTheme, colors } from "@vechaiui/react";
 
 // 2.Define new color scheme
 const cool: ColorScheme = {
@@ -107,10 +107,10 @@ const theme = extendTheme({
   },
 });
 
-// 4. Pass the new theme to `MintflowProvider`
-<MintflowProvider theme={theme} colorScheme="cool">
+// 4. Pass the new theme to `VechaiProvider`
+<VechaiProvider theme={theme} colorScheme="cool">
   <App />
-</MintflowProvider>
+</VechaiProvider>
 // 5. Now you can use these colors in your components
 function Usage() {
   return <Button color="primary">Welcome</Button>
@@ -129,16 +129,16 @@ The following components have applyed density:
 - Switch
 
 ```jsx
-<MintflowProvider density="compact">
+<VechaiProvider density="compact">
   <App />
-</MintflowProvider>
+</VechaiProvider>
 ```
 
 [Browse some example themes](/themes-gallery)
 
 ## TypeScript
 
-@mintgate/mintflow/react package exports types:
+@vechaiui/react package exports types:
 
 - VechaiTheme – theme object interface
 - VechaiThemeOverride – theme override options

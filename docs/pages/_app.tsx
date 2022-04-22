@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-// import "@mintgate/mintflow/core/dist/mintflow.css";
+// import "@vechaiui/core/dist/vechaiui.css";
 import * as React from "react";
 import { useEffect } from "react";
 import { AppProps } from "next/app";

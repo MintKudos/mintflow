@@ -86,7 +86,7 @@ const demoList = [
 
 const messageComponent = {
   name: "Message",
-  importer: `import { useMessage } from "@mintgate/mintflow/react"`,
+  importer: `import { useMessage } from "@vechaiui/react"`,
   demoList,
   propList,
 };

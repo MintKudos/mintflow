@@ -2,23 +2,23 @@
 
 ## Installation
 
-mintflow works out of the box with create-react-app (including TypeScript version), Preact cli (with compat), Next.js, Gatsby and any other environment.
+VechaiUI works out of the box with create-react-app (including TypeScript version), Preact cli (with compat), Next.js, Gatsby and any other environment.
 
-To install the mintflow run the following within your project directory.
+To install the VechaiUI run the following within your project directory.
 
 ```bash
-npm i @mintgate/mintflow/core @mintgate/mintflow/react @tailwindcss/forms
+npm i @vechaiui/core @vechaiui/react @tailwindcss/forms
 
 # OR
 
-yarn add @mintgate/mintflow/core @mintgate/mintflow/react @tailwindcss/forms
+yarn add @vechaiui/core @vechaiui/react @tailwindcss/forms
 ```
 
 ## Configuration
 
 The default theme of this library depends on the `@tailwindcss/forms` plugin. To use it, follow the steps on the plugin source page. https://github.com/tailwindlabs/tailwindcss-forms
 
-Mintflow can be configed in `tailwind.config.js`:
+Vechai UI can be configed in `tailwind.config.js`:
 
 ```js
 // tailwind.config.js
@@ -26,7 +26,7 @@ module.exports = {
   mode: "jit",
   purge: [
     // ...
-    "./node_modules/@mintgate/mintflow/**/*.{js,ts,jsx,tsx}", // path to mintflow
+    "./node_modules/@vechaiui/**/*.{js,ts,jsx,tsx}", // path to vechaiui
   ],
   darkMode: "class", // or 'media' or 'class'
   theme: {
@@ -37,12 +37,12 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/forms"),
-    require("@mintgate/mintflow/core"),
+    require("@vechaiui/core"),
   ],
 };
 ```
 
-**Note**: mintflow required `jit` mode and `tailwindcss` version `2.1.4` or higher (`basic` mode seems buggy when compiling some components)
+**Note**: VechaiUI required `jit` mode and `tailwindcss` version `2.1.4` or higher (`basic` mode seems buggy when compiling some components)
 
 ## Quick start
 
@@ -50,13 +50,13 @@ Here's a quick example to get you started, **it's literally all you need:**
 
 ```jsx
 import * as React from "react";
-import { MintflowProvider, Button } from "@mintgate/mintflow/react";
+import { VechaiProvider, Button } from "@vechaiui/react";
 
 function App() {
   return (
-    <MintflowProvider>
+    <VechaiProvider>
       <Button>Hello Vechai</Button>
-    </MintflowProvider>
+    </VechaiProvider>
   );
 }
 ```

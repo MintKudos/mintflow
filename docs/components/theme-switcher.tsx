@@ -1,5 +1,5 @@
 import { Popover, RadioGroup, Transition } from "@headlessui/react";
-import { cx, Divider, Switch, Select } from "@mintgate/mintflow/react";
+import { cx, Divider, Switch, Select } from "@vechaiui/react";
 import * as React from "react";
 
 import { useTheme, themes, radiusItems, ThemeContextType } from "./theme-controller";
@@ -29,7 +29,7 @@ export function ThemSwitcher() {
                   alt="logo"
                 />
               </span>
-              <span className="font-semibold text-neutral-100">mintflow</span>
+              <span className="font-semibold text-neutral-100">VechaiUI</span>
             </div>
             <div className="text-lg text-neutral-100">
               <svg

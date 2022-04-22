@@ -275,7 +275,7 @@ const demoList = [
 const listboxComponent = {
   name: "Listbox",
   importer: `import { Listbox, Transition } from "@headlessui/react";
-import { cx } from "@mintgate/mintflow/react";`,
+import { cx } from "@vechaiui/react";`,
   demoList,
   propList,
 };

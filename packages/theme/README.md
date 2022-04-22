@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/theme
+yarn add @vechaiui/theme
 ```

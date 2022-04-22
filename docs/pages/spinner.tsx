@@ -55,7 +55,7 @@ const demoList = [
 
 const spinnerComponent = {
   name: "Spinner",
-  importer: `import { Spinner } from "@mintgate/mintflow/react"`,
+  importer: `import { Spinner } from "@vechaiui/react"`,
   demoList,
   propList,
 };

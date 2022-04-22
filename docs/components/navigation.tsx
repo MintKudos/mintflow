@@ -4,7 +4,7 @@ import {
   BeakerIcon,
   ColorSwatchIcon
 } from "@heroicons/react/outline";
-import { Button, Icon, cx } from "@mintgate/mintflow/react";
+import { Button, Icon, cx } from "@vechaiui/react";
 import * as React from "react";
 
 import { Github, Twitter } from "@libs/react-feather";
@@ -94,7 +94,7 @@ export function Navigation() {
                 <ThemSwitcher />
                 <div className="grid grid-cols-2 gap-2 dark">
                   <a
-                    href="https://github.com/vechai/mintflow"
+                    href="https://github.com/vechai/vechaiui"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -108,7 +108,7 @@ export function Navigation() {
                     </Button>
                   </a>
                   <a
-                    href="https://twitter.com/mintflow"
+                    href="https://twitter.com/vechaiui"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/tag
+yarn add @vechaiui/tag
 ```

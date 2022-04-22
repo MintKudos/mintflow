@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/alert
+yarn add @vechaiui/alert
 ```

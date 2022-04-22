@@ -22,7 +22,7 @@ const demoList = [
 
 const codeComponent = {
   name: "Code",
-  importer: `import { Code } from "@mintgate/mintflow/react"`,
+  importer: `import { Code } from "@vechaiui/react"`,
   demoList,
 };
 

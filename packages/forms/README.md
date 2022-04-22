@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/forms
+yarn add @vechaiui/forms
 ```

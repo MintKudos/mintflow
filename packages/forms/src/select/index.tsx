@@ -1,4 +1,4 @@
-import { cx, __DEV__ } from "@mintgate/mintflow/utils";
+import { cx, __DEV__ } from "@vechaiui/utils";
 import * as React from "react";
 
 import { Input, InputProps } from "../input/input";

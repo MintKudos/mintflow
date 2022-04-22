@@ -1,5 +1,5 @@
 {
-  "name": "@mintgate/mintflow/forms",
+  "name": "@vechaiui/forms",
   "version": "0.3.2",
   "sideEffects": false,
   "license": "MIT",
@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@reach/auto-id": "^0.15.3",
-    "@mintgate/mintflow/theme": "0.4.0",
-    "@mintgate/mintflow/utils": "^0.1.0"
+    "@vechaiui/theme": "0.4.0",
+    "@vechaiui/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

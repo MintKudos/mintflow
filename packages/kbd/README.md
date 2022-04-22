@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/kbd
+yarn add @vechaiui/kbd
 ```

@@ -1,5 +1,5 @@
 ## Installation
 
 ```sh
-yarn add @mintgate/mintflow/radio
+yarn add @vechaiui/radio
 ```

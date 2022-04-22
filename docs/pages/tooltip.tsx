@@ -64,7 +64,7 @@ const demoList = [
 const tooltipComponent = {
   name: "Tooltip",
   importer: `import * as Tooltip from "@radix-ui/react-tooltip";
-import { cx } from "@mintgate/mintflow/react";`,
+import { cx } from "@vechaiui/react";`,
   demoList,
   propList,
 };

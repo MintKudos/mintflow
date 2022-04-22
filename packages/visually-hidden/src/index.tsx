@@ -11,7 +11,7 @@
  */
 
  import * as React from "react";
- import { __DEV__ } from "@mintgate/mintflow/utils";
+ import { __DEV__ } from "@vechaiui/utils";
  import PropTypes from "prop-types";
  
  /**

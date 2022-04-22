@@ -1,5 +1,5 @@
 {
-  "name": "@mintgate/mintflow/checkbox",
+  "name": "@vechaiui/checkbox",
   "version": "0.2.9",
   "sideEffects": false,
   "license": "MIT",
@@ -38,9 +38,9 @@
   },
   "dependencies": {
     "@reach/auto-id": "^0.15.0",
-    "@mintgate/mintflow/forms": "0.3.2",
-    "@mintgate/mintflow/theme": "0.4.0",
-    "@mintgate/mintflow/utils": "^0.1.0"
+    "@vechaiui/forms": "0.3.2",
+    "@vechaiui/theme": "0.4.0",
+    "@vechaiui/utils": "^0.1.0"
   },
   "peerDependencies": {
     "react": ">=16.8.6"

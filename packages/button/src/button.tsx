@@ -1,6 +1,6 @@
-import { Spinner } from "@mintgate/mintflow/spinner";
-import { DefaultProps } from "@mintgate/mintflow/theme";
-import { cx, __DEV__ } from "@mintgate/mintflow/utils";
+import { Spinner } from "@vechaiui/spinner";
+import { DefaultProps } from "@vechaiui/theme";
+import { cx, __DEV__ } from "@vechaiui/utils";
 import * as React from "react";
 
 import { useButtonClass } from "./styles";

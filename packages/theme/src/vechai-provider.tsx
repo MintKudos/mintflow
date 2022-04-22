@@ -5,7 +5,7 @@ import {
   deepmerge,
   WithCSSVar,
   Dict,
-} from "@mintgate/mintflow/utils";
+} from "@vechaiui/utils";
 import * as React from "react";
 import { createContext, useContext, useMemo } from "react";
 import set from "lodash.set";
@@ -27,7 +27,7 @@ export const VechaiContext = createContext<
 
 VechaiContext.displayName = "VechaiContext";
 
-export interface MintflowProviderProps {
+export interface VechaiProviderProps {
   children: React.ReactNode;
   theme?: VechaiTheme;
   density?: "compact" | "comfortable" | "unset";
@@ -35,13 +35,13 @@ export interface MintflowProviderProps {
   cssVarsRoot?: string;
 }
 
-export function MintflowProvider({
+export function VechaiProvider({
   theme = defaultTheme,
   colorScheme = "light",
   density = "comfortable",
   cssVarsRoot = ":host, :root",
   children,
-}: MintflowProviderProps) {
+}: VechaiProviderProps) {
   const computedTheme = useMemo(() => {
     const omittedTheme = omit(theme, ["colorSchemes", "density"]);
     const { colors, type } = theme.colorSchemes[colorScheme] || {};
@@ -87,7 +87,7 @@ export function useVechai<T extends object = Dict>() {
   );
   if (!theme) {
     throw Error(
-      "useVechai: `theme` is undefined. Seems you forgot to wrap your app in `<MintflowProvider />`"
+      "useVechai: `theme` is undefined. Seems you forgot to wrap your app in `<VechaiProvider />`"
     );
   }
 
