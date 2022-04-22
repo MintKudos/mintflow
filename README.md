@@ -47,4 +47,4 @@ All contributions are welcome. Even, if you notice wrong information, typos, or 
 
 ## License
 
-MIT License © 2021 [pepelele](https://github.com/pepelele)
+MIT License © 2021 [MintKudos](https://github.com/MintKudos)

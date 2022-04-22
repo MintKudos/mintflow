@@ -10,14 +10,14 @@ The default color of all components will be neutral. Add prop `color="colorName"
 
 ```tsx
 import * as React from "react";
-import { VechaiProvider, Button } from "@mintflow/react";
+import { MintflowProvider, Button } from "@mintflow/react";
 
 function App() {
   return (
-    <VechaiProvider>
+    <MintflowProvider>
       <Button>Neutral</Button> // neutral color
       <Button color="primary">Primary</Button> // primary color
-    </VechaiProvider>
+    </MintflowProvider>
   );
 }
 ```
@@ -53,14 +53,14 @@ module.exports = {
 
 ```tsx
 import * as React from "react";
-import { VechaiProvider, Button } from "@mintflow/react";
+import { MintflowProvider, Button } from "@mintflow/react";
 
 function App() {
   return (
-    <VechaiProvider>
+    <MintflowProvider>
       <Button color="warning">Primary</Button> // warning color
       <Button color="pink">Primary</Button> // pink color
-    </VechaiProvider>
+    </MintflowProvider>
   );
 }
 ```

@@ -27,7 +27,7 @@ export const VechaiContext = createContext<
 
 VechaiContext.displayName = "VechaiContext";
 
-export interface VechaiProviderProps {
+export interface MintflowProviderProps {
   children: React.ReactNode;
   theme?: VechaiTheme;
   density?: "compact" | "comfortable" | "unset";
@@ -35,13 +35,13 @@ export interface VechaiProviderProps {
   cssVarsRoot?: string;
 }
 
-export function VechaiProvider({
+export function MintflowProvider({
   theme = defaultTheme,
   colorScheme = "light",
   density = "comfortable",
   cssVarsRoot = ":host, :root",
   children,
-}: VechaiProviderProps) {
+}: MintflowProviderProps) {
   const computedTheme = useMemo(() => {
     const omittedTheme = omit(theme, ["colorSchemes", "density"]);
     const { colors, type } = theme.colorSchemes[colorScheme] || {};
@@ -87,7 +87,7 @@ export function useVechai<T extends object = Dict>() {
   );
   if (!theme) {
     throw Error(
-      "useVechai: `theme` is undefined. Seems you forgot to wrap your app in `<VechaiProvider />`"
+      "useVechai: `theme` is undefined. Seems you forgot to wrap your app in `<MintflowProvider />`"
     );
   }
 

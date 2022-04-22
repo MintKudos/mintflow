@@ -1,16 +1,16 @@
 # Theming
 
-By default all Vechai components use the default theme. You can extend and customize theme on top level with VechaiProvider.
+By default all Vechai components use the default theme. You can extend and customize theme on top level with MintflowProvider.
 
-## VechaiProvider
+## MintflowProvider
 
-VechaiProvider component allows you to change theme globally. It is not required if you decide to stick with default theme:
+MintflowProvider component allows you to change theme globally. It is not required if you decide to stick with default theme:
 
 ```jsx
 import * as React from "react";
 
-// 1. import `VechaiProvider` component
-import { VechaiProvider, Button } from "@mintflow/react";
+// 1. import `MintflowProvider` component
+import { MintflowProvider, Button } from "@mintflow/react";
 
 function App() {
   return <Button>Button</Button>;
@@ -19,9 +19,9 @@ function App() {
 function ThemedApp() {
   // 2. Use at the root of your app
   return (
-    <VechaiProvider>
+    <MintflowProvider>
       <App />
-    </VechaiProvider>
+    </MintflowProvider>
   )
 }
 ```
@@ -107,10 +107,10 @@ const theme = extendTheme({
   },
 });
 
-// 4. Pass the new theme to `VechaiProvider`
-<VechaiProvider theme={theme} colorScheme="cool">
+// 4. Pass the new theme to `MintflowProvider`
+<MintflowProvider theme={theme} colorScheme="cool">
   <App />
-</VechaiProvider>
+</MintflowProvider>
 // 5. Now you can use these colors in your components
 function Usage() {
   return <Button color="primary">Welcome</Button>
@@ -129,9 +129,9 @@ The following components have applyed density:
 - Switch
 
 ```jsx
-<VechaiProvider density="compact">
+<MintflowProvider density="compact">
   <App />
-</VechaiProvider>
+</MintflowProvider>
 ```
 
 [Browse some example themes](/themes-gallery)

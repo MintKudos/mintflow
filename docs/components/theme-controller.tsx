@@ -1,8 +1,8 @@
 import * as React from "react";
 import {
-  VechaiProvider,
+  MintflowProvider,
   extendTheme,
-  VechaiProviderProps,
+  MintflowProviderProps,
 } from "@mintflow/react";
 
 import { light, dark, midnight, pale, dawn, bee, cool } from "@utils/themes";
@@ -10,12 +10,12 @@ import { light, dark, midnight, pale, dawn, bee, cool } from "@utils/themes";
 export type ThemeContextType = {
   colorScheme?: string;
   radius?: string;
-  density?: VechaiProviderProps["density"];
+  density?: MintflowProviderProps["density"];
   cursorPointer?: boolean;
   setColorScheme: (colorScheme: string) => void;
   setRadius: (radius: string) => void;
   setCursorPointer: (cursorPointer: boolean) => void;
-  setDensity: (density: VechaiProviderProps["density"]) => void;
+  setDensity: (density: MintflowProviderProps["density"]) => void;
 };
 
 const ThemeContext = React.createContext<ThemeContextType | null>(null);
@@ -84,7 +84,7 @@ function ThemeController({ children }: { children: React.ReactNode }) {
   const [cursorPointer, setCursorPointer] = React.useState(false);
   const [radius, setRadius] = React.useState(radiusItems[2].value);
   const [colorScheme, setColorScheme] = React.useState(themes[0].id);
-  const [density, setDensity] = React.useState<VechaiProviderProps["density"]>("comfortable");
+  const [density, setDensity] = React.useState<MintflowProviderProps["density"]>("comfortable");
 
   const theme = React.useMemo(() => {
     return extendTheme({
@@ -115,9 +115,9 @@ function ThemeController({ children }: { children: React.ReactNode }) {
         setDensity,
       }}
     >
-      <VechaiProvider theme={theme} colorScheme={colorScheme} density={density}>
+      <MintflowProvider theme={theme} colorScheme={colorScheme} density={density}>
         {children}
-      </VechaiProvider>
+      </MintflowProvider>
     </ThemeContext.Provider>
   );
 }

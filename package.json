@@ -1,13 +1,6 @@
 {
   "name": "@mintgate/mintflow",
-  "private": true,
   "version": "1.0.1-1",
-  "workspaces": {
-    "packages": [
-      "packages/*",
-      "docs"
-    ]
-  },
   "description": "",
   "main": "index.js",
   "directories": {
@@ -34,7 +27,7 @@
     "**/react": "17.0.2",
     "**/react-dom": "17.0.2"
   },
-  "author": "pepelele",
+  "author": "Simon Weniger",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.14.5",

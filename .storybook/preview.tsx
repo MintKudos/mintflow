@@ -1,4 +1,4 @@
-import { VechaiProvider, extendTheme } from "@mintflow/react";
+import { MintflowProvider, extendTheme } from "@mintflow/react";
 import { useState, useMemo } from "react";
 import { withPerformance } from "storybook-addon-performance";
 import { light, dark, midnight, pale, dawn, bee, cool } from "./themes";
@@ -9,7 +9,7 @@ export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
 };
 
-const withVechai = (StoryFn: Function) => {
+const withMintflow = (StoryFn: Function) => {
   const [colorScheme, setColorScheme] = useState("light");
   const theme = useMemo(
     () =>
@@ -31,7 +31,7 @@ const withVechai = (StoryFn: Function) => {
   const density = colorScheme === "light" ? "comfortable" : "compact";
 
   return (
-    <VechaiProvider theme={theme} colorScheme={colorScheme} density={density}>
+    <MintflowProvider theme={theme} colorScheme={colorScheme} density={density}>
       <div
         id="story-wrapper"
         className="space-y-4"
@@ -48,8 +48,8 @@ const withVechai = (StoryFn: Function) => {
         </div>
         <StoryFn />
       </div>
-    </VechaiProvider>
+    </MintflowProvider>
   );
 };
 
-export const decorators = [withVechai, withPerformance];
+export const decorators = [withMintflow, withPerformance];
