@@ -1,6 +1,6 @@
 {
   "name": "@mintgate/mintflow",
-  "private": true,
+  "private": false,
   "version": "1.0.1-0",
   "workspaces": {
     "packages": [
